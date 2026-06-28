@@ -266,7 +266,7 @@ em { font-style: italic; color: var(--color-terra); }
    ================================================ */
 .hero {
   min-height: 100vh;
-  background: linear-gradient(145deg, #4A2E22 0%, #7D4A35 40%, #C1654A 100%);
+  background: linear-gradient(145deg, #9B6B4A 0%, #B8845D 40%, #D9956D 100%);
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -397,8 +397,8 @@ em { font-style: italic; color: var(--color-terra); }
 
 .season-spring  { background: linear-gradient(145deg, #F9C5A1, #E8927B); }
 .season-summer  { background: linear-gradient(145deg, #B8D4CE, #8AB0AA); }
-.season-autumn  { background: linear-gradient(145deg, #C1654A, #7D4A35); }
-.season-winter  { background: linear-gradient(145deg, #5A6B8A, #334055); }
+.season-autumn  { background: linear-gradient(145deg, #8B6914, #7D0F37); }
+.season-winter  { background: linear-gradient(145deg, #7851A9, #50C878); }
 
 
 /* ================================================
